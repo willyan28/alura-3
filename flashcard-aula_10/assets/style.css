@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #fff7f7;
+    --card-front-color: #ce1010;
+    --card-back-color: #ffffff;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/lauro_waifu2x_photo_noise3_scale_waifu2x_photo_noise3_scale\ \(1\).png');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/bg-mobile.webp'), no-repeat cover;
+        background: url('img/lauro.png'), no-repeat cover;
     }
 
     .cartao {
